@@ -1,0 +1,17 @@
+run_id,T,Ea,initial_bonds_per_atom,final_bonds_per_atom,max_bonds_per_atom,bond_formation_rate,total_bond_increase,topology,reached_equilibrium,has_replication_potential,replication_confidence,replication_reasons,n_atoms
+0,0.5,2.0,0.0,0.91344991,0.91344991,9.1344991e-07,0.91344991,ring,True,True,0.7,"stable_bonds, equilibrium, significant_formation",43004
+1,0.5,4.0,0.0,0.91347207,0.91347207,9.134720699999999e-07,0.91347207,ring,True,True,0.7,"stable_bonds, equilibrium, significant_formation",42911
+10,1.5,6.0,0.0,0.92305183,0.92305183,9.2305183e-07,0.92305183,ring,True,True,0.7,"stable_bonds, equilibrium, significant_formation",42912
+11,1.5,8.0,0.0,0.91980978,0.91980978,9.1980978e-07,0.91980978,ring,True,True,0.7,"stable_bonds, equilibrium, significant_formation",42898
+12,2.0,2.0,0.0,0.91902758,0.91902758,9.1902758e-07,0.91902758,ring,True,True,0.7,"stable_bonds, equilibrium, significant_formation",42780
+13,2.0,4.0,0.0,0.92025228,0.92025228,9.2025228e-07,0.92025228,ring,True,True,0.7,"stable_bonds, equilibrium, significant_formation",42810
+14,2.0,6.0,0.0,0.92023455,0.92023455,9.2023455e-07,0.92023455,ring,True,True,0.7,"stable_bonds, equilibrium, significant_formation",42976
+15,2.0,8.0,0.0,0.92429704,0.92429704,9.2429704e-07,0.92429704,ring,True,True,0.7,"stable_bonds, equilibrium, significant_formation",42997
+2,0.5,6.0,0.0,0.90963869,0.90963869,9.0963869e-07,0.90963869,ring,True,True,0.7,"stable_bonds, equilibrium, significant_formation",42817
+3,0.5,8.0,0.0,0.91560043,0.91560043,9.1560043e-07,0.91560043,ring,True,True,0.7,"stable_bonds, equilibrium, significant_formation",42986
+4,1.0,2.0,0.0,0.92204796,0.92204796,9.2204796e-07,0.92204796,ring,True,True,0.7,"stable_bonds, equilibrium, significant_formation",42911
+5,1.0,4.0,0.0,0.92279763,0.92279763,9.227976300000001e-07,0.92279763,ring,True,True,0.7,"stable_bonds, equilibrium, significant_formation",42965
+6,1.0,6.0,0.0,0.91915191,0.91915191,9.1915191e-07,0.91915191,ring,True,True,0.7,"stable_bonds, equilibrium, significant_formation",42920
+7,1.0,8.0,0.0,0.91931266,0.91931266,9.1931266e-07,0.91931266,ring,True,True,0.7,"stable_bonds, equilibrium, significant_formation",42832
+8,1.5,2.0,0.0,0.91822222,0.91822222,9.1822222e-07,0.91822222,ring,True,True,0.7,"stable_bonds, equilibrium, significant_formation",42750
+9,1.5,4.0,0.0,0.92337432,0.92337432,9.233743199999999e-07,0.92337432,ring,True,True,0.7,"stable_bonds, equilibrium, significant_formation",42936

@@ -1,0 +1,27 @@
+# Propagation: Chain end (atom 1) + monomer (atom 2)
+# Atom 3 is edge atom (represents rest of chain)
+3 equivalences
+1 edgeIDs
+0 deleteIDs
+0 createIDs
+0 chiralIDs
+1 constraints
+
+InitiatorIDs
+
+1
+2
+
+EdgeIDs
+
+3
+
+Equivalences
+
+1 1
+2 2
+3 3
+
+Constraints
+
+arrhenius 1e+10 0.0 1.5 97532

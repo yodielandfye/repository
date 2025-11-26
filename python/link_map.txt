@@ -1,0 +1,29 @@
+# Linking: Two chain ends (atoms 1 and 2)
+# Atoms 3 and 4 are edge atoms (rest of chains)
+4 equivalences
+2 edgeIDs
+0 deleteIDs
+0 createIDs
+0 chiralIDs
+1 constraints
+
+InitiatorIDs
+
+1
+2
+
+EdgeIDs
+
+3
+4
+
+Equivalences
+
+1 1
+2 2
+3 3
+4 4
+
+Constraints
+
+arrhenius 1e+10 0.0 1.5 97533

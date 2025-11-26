@@ -1,0 +1,22 @@
+init_post
+2 atoms
+1 bonds
+
+Coords
+
+1 0.0 0.0 0.0
+2 0.750000 0.0 0.0
+
+Types
+
+1 1
+2 2
+
+Charges
+
+1 0.0
+2 0.0
+
+Bonds
+
+1 1 1 2

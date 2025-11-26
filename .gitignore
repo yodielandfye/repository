@@ -1,0 +1,26 @@
+*.log
+*.xyz
+*.pdf
+*.png
+__pycache__/
+*.pyc
+cpu_run_*
+gpu_*.mol
+*.map
+test_write_check
+log.lammps
+# Project place file
+/boolaka.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
